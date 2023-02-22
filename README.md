@@ -8,5 +8,5 @@ but the data was adapted for this assignment.
 <br /> For this we implemented a Naive Bayes classifier using Kernel Density Estimation for the
 probability distributions of the feature values. This is the result:
 
-<br/>
+<br />
 ![Naive_Bayes](https://user-images.githubusercontent.com/45294533/220663649-a7ea5820-d725-4500-a0e5-51682ef5e1ae.png)
